@@ -2,6 +2,9 @@
 
 For this project, I followed tutorials for Tailwind exercises using the Scrimba boilerplate.
 - I would like to be conversant with Tailwind, so expect a few hits and a lot of misses.
+- At the end of the tutorial, I should be competent enough to work with Tailwind on projects
+  
 - Tailwind starts here
+
 
 ### Happy Coding!
